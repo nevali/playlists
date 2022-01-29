@@ -1,0 +1,1473 @@
+[
+  {
+    "tracks" : [
+      {
+        "service" : "applemusic",
+        "serviceId" : "1523645041",
+        "album" : "Crucchi Gang",
+        "isrc" : "DEUM72003919",
+        "track" : "Al mio locale",
+        "artist" : "Crucchi Gang & Von Wegen Lisbeth"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1511474761",
+        "album" : "So gut - Single",
+        "isrc" : "DEUM72002507",
+        "track" : "So gut",
+        "artist" : "Achtabahn & Wincent Weiss"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1511197243",
+        "album" : "Vacation (DNA Remix) - Single",
+        "isrc" : "GBKPL2001236",
+        "track" : "Vacation (DNA Remix)",
+        "artist" : "The Mowgli's"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508560367",
+        "album" : "DALI",
+        "isrc" : "DEQ322000099",
+        "track" : "Herzklopfen",
+        "artist" : "Ali As & Enyadres"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1593828198",
+        "album" : "TOP TEN",
+        "isrc" : "DEYC62000002",
+        "track" : "Ratatang",
+        "artist" : "Culcha Candela"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1516805436",
+        "album" : "Mehr davon - Single",
+        "isrc" : "DEE862000272",
+        "track" : "Mehr davon",
+        "artist" : "LOTTE"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1514201464",
+        "album" : "Details (feat. Boy Matthews) [Tensnake Remix] - Single",
+        "isrc" : "USRC12001534",
+        "track" : "Details (feat. Boy Matthews) [Tensnake Remix]",
+        "artist" : "Oliver Heldens & Tensnake"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1516412818",
+        "album" : "I'm Only Going to Hurt You - Single",
+        "isrc" : "GBHPX2000009",
+        "track" : "I'm Only Going to Hurt You",
+        "artist" : "THE NINTH WAVE"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508573595",
+        "album" : "Übermorgen - Single",
+        "isrc" : "DEQ322000065",
+        "track" : "Übermorgen",
+        "artist" : "Mark Forster"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1476338343",
+        "album" : "Fantasías - Single",
+        "isrc" : "QM6P41989279",
+        "track" : "Fantasías",
+        "artist" : "Rauw Alejandro & Farruko"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "551863435",
+        "album" : "Somethin' 'Bout Kreay",
+        "isrc" : "USSM11103319",
+        "track" : "Gucci Gucci",
+        "artist" : "Kreayshawn"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "339972792",
+        "album" : "TiK-Tok (Remixes) - EP",
+        "isrc" : "USRC10900433",
+        "track" : "TiK ToK",
+        "artist" : "Kesha"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1268142492",
+        "album" : "In the Morning (Remixes) - EP",
+        "isrc" : "GBARL1601555",
+        "track" : "In the Morning",
+        "artist" : "Jaded"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1512828053",
+        "album" : "Ride or Die (feat. Tia Lowe) - Single",
+        "isrc" : "UKRPL1900066",
+        "track" : "Ride or Die (feat. Tia Lowe)",
+        "artist" : "Tough Love"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1440849774",
+        "album" : "The Pinkprint (Bonus Video)",
+        "isrc" : "USCM51400260",
+        "track" : "Anaconda",
+        "artist" : "Nicki Minaj"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1445014512",
+        "album" : "I Need a Painkiller (Armand Van Helden Vs. Butter Rush) [feat. Sneakbo] - Single",
+        "isrc" : "GBSXS1700154",
+        "track" : "I Need a Painkiller (feat. Sneakbo) [Armand Van Helden Vs. Butter Rush]",
+        "artist" : "Armand Van Helden & Butter Rush"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1486785026",
+        "album" : "Suddenly",
+        "isrc" : "DED622000007",
+        "track" : "Never Come Back",
+        "artist" : "Caribou"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1514819123",
+        "album" : "Solo (feat. Probcause) - Single",
+        "isrc" : "USA2P2020595",
+        "track" : "Solo (feat. Probcause)",
+        "artist" : "GRiZ & Probcause"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1491377772",
+        "album" : "Lucky Ones",
+        "isrc" : "GBEWA1903530",
+        "track" : "Albanian Summer",
+        "artist" : "Luttrell"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1225176146",
+        "album" : "#ZWEI",
+        "isrc" : "DEN061700290",
+        "track" : "Be My Now",
+        "artist" : "Gestört aber GeiL"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1538186910",
+        "album" : "Bangers Anthems Tunes",
+        "isrc" : "USWB11801760",
+        "track" : "Goodbye (feat. Nicki Minaj & Willy William)",
+        "artist" : "Jason Derulo & David Guetta"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1445922040",
+        "album" : "OMNI. (Deluxe Edition)",
+        "isrc" : "GBKPL1831654",
+        "track" : "Off Guard (We5 Remix)",
+        "artist" : "Alexander Lewis"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1397962315",
+        "album" : "Brighter Days",
+        "isrc" : "GBCEN1800093",
+        "track" : "Just Got Paid (feat. French Montana)",
+        "artist" : "Sigala, Ella Eyre & Meghan Trainor"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1447869530",
+        "album" : "Ivy to Roses (Mixtape)",
+        "isrc" : "GBUM71808052",
+        "track" : "Don't Call Me Up",
+        "artist" : "Mabel"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1495093268",
+        "album" : "Struggle Is Real",
+        "isrc" : "DELJ82077332",
+        "track" : "Ich würd' lügen",
+        "artist" : "KAYEF"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1488408568",
+        "album" : "Blinding Lights - Single",
+        "isrc" : "USUG11904206",
+        "track" : "Blinding Lights",
+        "artist" : "The Weeknd"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1515313144",
+        "album" : "If I See You in Heaven - Single",
+        "isrc" : "GBKQU2056044",
+        "track" : "If I See You in Heaven",
+        "artist" : "LTN"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1515787763",
+        "album" : "You Do You (feat. BabyJake) [Sofi Tukker Remix] - Single",
+        "isrc" : "USZ4V2000262",
+        "track" : "You Do You (feat. BabyJake) [Sofi Tukker Remix]",
+        "artist" : "Dillon Francis"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508743770",
+        "album" : "Discovery - Single",
+        "isrc" : "GB8KE1959324",
+        "track" : "Work It",
+        "artist" : "Royal Hustle"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1512797306",
+        "album" : "Half of It - Single",
+        "isrc" : "GBEWA1906530",
+        "track" : "Half of It",
+        "artist" : "Abraxis, Seven Lions & Dimibo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1505572552",
+        "album" : "Yours Sincerely - Single",
+        "isrc" : "QZDA52062098",
+        "track" : "Yours Sincerely",
+        "artist" : "Hessian"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503357687",
+        "album" : "Love Me Right Now - Single",
+        "isrc" : "NLC7F2000020",
+        "track" : "Love Me Right Now (Polynation Remix)",
+        "artist" : "Bloom Twins & Polynation"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1514681079",
+        "album" : "Bésame (I Need You) - Single",
+        "isrc" : "NLW4L2000286",
+        "track" : "Bésame (I Need You)",
+        "artist" : "R3HAB, TINI & Reik"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1510975037",
+        "album" : "Mvinline - Single",
+        "isrc" : "GBCPZ2017509",
+        "track" : "Mvinline",
+        "artist" : "Boys Noize"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1499330049",
+        "album" : "Just Because (Crazy Cousinz Remix) - Single",
+        "isrc" : "GBSXS2000007",
+        "track" : "Just Because (Crazy Cousinz Remix)",
+        "artist" : "Anna Straker"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1509848671",
+        "album" : "Boomerang (Round & Round) - Single",
+        "isrc" : "GBSXS2000052",
+        "track" : "Boomerang (Round & Round)",
+        "artist" : "DJ S.K.T & Jem Cooke"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1509758483",
+        "album" : "Love Goes (feat. Kimberly Nichole) - Single",
+        "isrc" : "GBJAJ2000980",
+        "track" : "Love Goes (feat. Kimberly Nichole)",
+        "artist" : "Tough Love"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503556880",
+        "album" : "No Pranksters - Single",
+        "isrc" : "GBKQU2025743",
+        "track" : "No Pranksters",
+        "artist" : "Stund"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1494242443",
+        "album" : "Dance Du Sol (Badapa) - Single",
+        "isrc" : "NLF712000003",
+        "track" : "Dance Du Sol (Badapa)",
+        "artist" : "Niko The Kid"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1499804088",
+        "album" : "Roll It (Tough Love Remix) - Single",
+        "isrc" : "NLBW52000017",
+        "track" : "Roll It (Tough Love Remix)",
+        "artist" : "Lady Bee & Tima Dee"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496335176",
+        "album" : "Turning Around (Gerd Janson Remix) - Single",
+        "isrc" : "GB5KW2000156",
+        "track" : "Turning Around (Gerd Janson Remix) [Edit]",
+        "artist" : "Theo Kottis"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1475711130",
+        "album" : "Make Your Move (Remixes) - Single",
+        "isrc" : "AUUM71900734",
+        "track" : "Make Your Move (Tensnake Remix)",
+        "artist" : "Running Touch"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1506106602",
+        "album" : "Catch Your Breath (Remixes) - EP",
+        "isrc" : "AUNV02000093",
+        "track" : "Catch Your Breath (KC Lights Remix)",
+        "artist" : "Vlossom"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1577262975",
+        "album" : "I've Got You - Single",
+        "isrc" : "QM6N21977683",
+        "track" : "I've Got You (Rinzen Remix)",
+        "artist" : "Lastlings"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1447881334",
+        "album" : "Turn the Bass Up \/ Jicarilla Jam - Single",
+        "isrc" : "QM4TX1617316",
+        "track" : "Turn the Bass Up",
+        "artist" : "DJ Zinc"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1445015336",
+        "album" : "Motorola - Single",
+        "isrc" : "GBUM71800820",
+        "track" : "Motorola",
+        "artist" : "Gorgon City"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503013777",
+        "album" : "Sirens (feat. Yasmin Jane) - Single",
+        "isrc" : "UK4ZF2000150",
+        "track" : "Sirens (feat. Yasmin Jane)",
+        "artist" : "Simon Field"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503537217",
+        "album" : "Obsession (feat. Alpha Londyn) - Single",
+        "isrc" : "USUS12000180",
+        "track" : "Obsession",
+        "artist" : "SNBRN"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "358367364",
+        "album" : "New Dubby Conquerors",
+        "isrc" : "DEA620101350",
+        "track" : "Dancehall Caballeros",
+        "artist" : "Seeed"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1440889684",
+        "album" : "Blitze aus Gold",
+        "isrc" : "DEUM71700174",
+        "track" : "Insel",
+        "artist" : "Chefboss"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1499072475",
+        "album" : "Horus",
+        "isrc" : "DENL81400447",
+        "track" : "Dos Pistoleros",
+        "artist" : "Sickless"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1095894459",
+        "album" : "Asozialisierungsprogramm",
+        "isrc" : "DELJ81604442",
+        "track" : "So High",
+        "artist" : "SXTN"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1513526198",
+        "album" : "Howling (Andromedik Remix) - Single",
+        "isrc" : "GB2LD2010070",
+        "track" : "Howling (Andromedik Remix)",
+        "artist" : "Cartoon & Asena"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508743377",
+        "album" : "Chronic (feat. Cheshire Cat) - Single",
+        "isrc" : "GB8KE1959506",
+        "track" : "Chronic (feat. Cheshire Cat)",
+        "artist" : "GOLD Dubs & Dr Meaker"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496622363",
+        "album" : "Therapy (Franky Wah Remix) - Single",
+        "isrc" : "GBUM72000265",
+        "track" : "Therapy (Franky Wah Remix)",
+        "artist" : "Duke Dumont"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1480534500",
+        "album" : "Alter - EP",
+        "isrc" : "FR96X1948322",
+        "track" : "Sinking Sand (feat. DRS)",
+        "artist" : "My Nu Leng"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1500016706",
+        "album" : "Come to Life - Single",
+        "isrc" : "FR10S2043698",
+        "track" : "Come to Life",
+        "artist" : "Christian Nielsen"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1514159131",
+        "album" : "This Time Last Year: The Remixes",
+        "isrc" : "GB6TC1733003",
+        "track" : "Temporary Love (feat. Blake) [S.P.Y Remix]",
+        "artist" : "Pola & Bryson"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1504978883",
+        "album" : "Idontknow - Single",
+        "isrc" : "UK7MC2000001",
+        "track" : "Idontknow",
+        "artist" : "Jamie xx"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503410890",
+        "album" : "Change Will Come - Single",
+        "isrc" : "CA5KR2024814",
+        "track" : "Change Will Come",
+        "artist" : "Cut Snake"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1494922957",
+        "album" : "Where? - Single",
+        "isrc" : "GB8PY2000208",
+        "track" : "Where?",
+        "artist" : "Iglesias"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1476597288",
+        "album" : "Majika",
+        "isrc" : "USNRS1938725",
+        "track" : "Majika",
+        "artist" : "Heliotype"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1515981639",
+        "album" : "Tarantia - Single",
+        "isrc" : "GBKPL2006465",
+        "track" : "Tarantia",
+        "artist" : "Yotto"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1509767924",
+        "album" : "Ritual - Single",
+        "isrc" : "GBJX31847013",
+        "track" : "Ritual",
+        "artist" : "Cousn"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1491261246",
+        "album" : "Switch (feat. Emmalyn) [Des3ett Remix] - Single",
+        "isrc" : "CYA221900117",
+        "track" : "Switch (feat. Emmalyn) [Des3ett Extended Remix]",
+        "artist" : "Afrojack & Jewelz & Sparks"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1491560427",
+        "album" : "Take Away - Single",
+        "isrc" : "CAU111900309",
+        "track" : "Take Away",
+        "artist" : "Giuseppe Lanni & Forrest"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508390422",
+        "album" : "13 Voices",
+        "isrc" : "GBEWA1905990",
+        "track" : "13 Voices",
+        "artist" : "Durante & HANA"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1483229202",
+        "album" : "Atlantic Modulations - EP",
+        "isrc" : "GBEUE1900294",
+        "track" : "September Blues (Dan Shake Remix)",
+        "artist" : "Quantic"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1505606097",
+        "album" : "Perfect in a Way - Single",
+        "isrc" : "DEQ022005087",
+        "track" : "Perfect in a Way (Radio Mix)",
+        "artist" : "Booka Shade & Kaktus Einarsson"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1471665503",
+        "album" : "Good Enough (feat. Tailor) - Single",
+        "isrc" : "NLZ541901020",
+        "track" : "Good Enough (feat. Tailor)",
+        "artist" : "BODÉ"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503498396",
+        "album" : "Perseus \/ Flote - EP",
+        "isrc" : "GBJAJ2000756",
+        "track" : "Perseus",
+        "artist" : "Local Dialect"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1497134547",
+        "album" : "Howl - Single",
+        "isrc" : "DEY472080462",
+        "track" : "Howl",
+        "artist" : "GHEIST & BAYKER"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503067670",
+        "album" : "Naked (Ben Pearce Remix) - Single",
+        "isrc" : "UKRPL1900019",
+        "track" : "Naked (Ben Pearce Remix)",
+        "artist" : "Hayla"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1504558531",
+        "album" : "Paradise Drum EP",
+        "isrc" : "NLC7F2000024",
+        "track" : "Momentum",
+        "artist" : "Sam Goku"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1501366672",
+        "album" : "Anemo - Single",
+        "isrc" : "ITFGO2000015",
+        "track" : "Anemo",
+        "artist" : "Ali Kuru"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496145082",
+        "album" : "Tecky Dream - Single",
+        "isrc" : "UKU332000004",
+        "track" : "Tecky Dream",
+        "artist" : "Junior Jack & Pat BDS"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1555527233",
+        "album" : "Consequence of Society, Vol. X - Single",
+        "isrc" : "GBUR62000035",
+        "track" : "Sleepless Nights",
+        "artist" : "Cristoph"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1493511010",
+        "album" : "Dizzy New Heights (Shanti Celeste Remix) - Single",
+        "isrc" : "GBUM71906784",
+        "track" : "Dizzy New Heights (Shanti Celeste Remix)",
+        "artist" : "MJ Cole"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1495971270",
+        "album" : "Clouds Across the Stars - EP",
+        "isrc" : "UKSP92000005",
+        "track" : "Clouds Across the Stars",
+        "artist" : "Borai & Denham Audio"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1486902469",
+        "album" : "Next Life \/ Nightfall - Single",
+        "isrc" : "GBCEN1900092",
+        "track" : "Nightfall",
+        "artist" : "Franky Wah"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1488955891",
+        "album" : "Anjunadeep 11",
+        "isrc" : "GBEWA1904166",
+        "track" : "The Healing (Tinlicker Edit [Mixed])",
+        "artist" : "James Zabiela"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1487802974",
+        "album" : "Nova (Cassian Remix) - Single",
+        "isrc" : "GBKPL1976740",
+        "track" : "Nova (Cassian Remix)",
+        "artist" : "Yotto"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1498230008",
+        "album" : "Red Medina \/ Acid Brain - Single",
+        "isrc" : "DEQ022001602",
+        "track" : "Acid Brain",
+        "artist" : "Booka Shade"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1515868027",
+        "album" : "Believe - Single",
+        "isrc" : "USLQ22080213",
+        "track" : "Believe (feat. Roxana) [Radio Edit]",
+        "artist" : "Hidden Face"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1485455552",
+        "album" : "Remedy",
+        "isrc" : "GBEWA1902754",
+        "track" : "Keep on Holding (feat. Jan Burton) [Edit]",
+        "artist" : "Gabriel & Dresden"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1516546659",
+        "album" : "Candy - Single",
+        "isrc" : "DEL672000066",
+        "track" : "Candy",
+        "artist" : "Kyau & Albert & Steve Brian"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1593865541",
+        "album" : "A Raver's Diary - Singles & B - Sides",
+        "isrc" : "ITK772000006",
+        "track" : "Klin (Enarxi Point)",
+        "artist" : "Dusty Kid"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1504639328",
+        "album" : "Bird of Paradise - Single",
+        "isrc" : "QZDA42026592",
+        "track" : "Bird of Paradise",
+        "artist" : "Andries"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1516607220",
+        "album" : "Shipwreck \/ My World - EP",
+        "isrc" : "ATFH82000101",
+        "track" : "Shipwreck",
+        "artist" : "Klangkarussell"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1499017711",
+        "album" : "My Boy (Elliot Adamson Remix) - Single",
+        "isrc" : "GB5KW2000298",
+        "track" : "My Boy (Elliot Adamson Remix)",
+        "artist" : "R Plus & Dido"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496239487",
+        "album" : "Nothing to Lose - Single",
+        "isrc" : "DEG932000124",
+        "track" : "Nothing to Lose",
+        "artist" : "Theo Kottis"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1502656853",
+        "album" : "Time \/ Sleeper Must Awaken - EP",
+        "isrc" : "DEU672000306",
+        "track" : "Sleeper Must Awaken",
+        "artist" : "Kölsch"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503332649",
+        "album" : "Back to the Nest - Single",
+        "isrc" : "GBKQU2027083",
+        "track" : "Nest to the Back",
+        "artist" : "Pierce Fulton"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1494390200",
+        "album" : "Needs - Single",
+        "isrc" : "CA5KR2002549",
+        "track" : "Needs",
+        "artist" : "Justin Martin"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1564256912",
+        "album" : "Circles (feat. Bonnie Wylde) - Single",
+        "isrc" : "NLF712103574",
+        "track" : "Circles (feat. Bonnie Wylde)",
+        "artist" : "Mazoulew"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1482245748",
+        "album" : "Anjunadeep Explorations 12",
+        "isrc" : "GBEWA1903402",
+        "track" : "September",
+        "artist" : "minds&machines"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496374351",
+        "album" : "To Believe (Remixes)",
+        "isrc" : "GBCFB2000054",
+        "track" : "Zero One\/This Fantasy (feat. Grey Reverend) [The Cinematic Orchestra Remix]",
+        "artist" : "The Cinematic Orchestra"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1494200096",
+        "album" : "Baby - Single",
+        "isrc" : "GBXNG2051002",
+        "track" : "Baby",
+        "artist" : "Four Tet"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1495682749",
+        "album" : "Melodies",
+        "isrc" : "GBEWA1903713",
+        "track" : "Melodies",
+        "artist" : "Cubicolor"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1455378478",
+        "album" : "Faze #70: Klangkarussell (DJ Mix)",
+        "isrc" : "DEH741904431",
+        "track" : "Glue (Mixed)",
+        "artist" : "Bicep"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1491819557",
+        "album" : "Radical (feat. Totally Enormous Extinct Dinosaurs) [Edit] - Single",
+        "isrc" : "USRC11903748",
+        "track" : "Radical (feat. Totally Enormous Extinct Dinosaurs) [Edit]",
+        "artist" : "Amtrac"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1511116022",
+        "album" : "Lucky Ones (The Remixes: Part 2) - Single",
+        "isrc" : "GBEWA1906330",
+        "track" : "My Friend the Sun (Digitalism Sound.Wav Remix)",
+        "artist" : "Luttrell"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1517222954",
+        "album" : "Dancing Among the Cyborgs - Single",
+        "isrc" : "QZHN62001046",
+        "track" : "Wayfarer",
+        "artist" : "Avoure"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1515546277",
+        "album" : "Undone (feat. VÖK) [Edit] - Single",
+        "isrc" : "NLZ542000890",
+        "track" : "Undone (feat. VÖK) [Edit]",
+        "artist" : "Alex Metric & TCTS"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1516348241",
+        "album" : "Honey (Avalon Emerson's Deep Current Reroll) - Single",
+        "isrc" : "SEWKZ1900024",
+        "track" : "Honey (Avalon Emerson's Deep Current Reroll)",
+        "artist" : "Robyn"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1489149692",
+        "album" : "Redwood \/ Monarch - Single",
+        "isrc" : "NLD681904134",
+        "track" : "Redwood",
+        "artist" : "Solanca & Davieu"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1471582590",
+        "album" : "Gengis - EP",
+        "isrc" : "FRPDG1900500",
+        "track" : "Gengis (Edit)",
+        "artist" : "Polo & Pan"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1469528484",
+        "album" : "Emerald Rush (Solomun Remix) - Single",
+        "isrc" : "GBCEL1900289",
+        "track" : "Emerald Rush (Solomun Remix Edit)",
+        "artist" : "Jon Hopkins"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1478435623",
+        "album" : "Brightest Lights",
+        "isrc" : "GBEWA1902997",
+        "track" : "The Gift",
+        "artist" : "Lane 8"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1564940400",
+        "album" : "Mountain of Memory",
+        "isrc" : "USA2P2002649",
+        "track" : "Awakenings",
+        "artist" : "Emancipator"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1480919759",
+        "album" : "Wild",
+        "isrc" : "QMUY41900120",
+        "track" : "Bunny",
+        "artist" : "Tourist"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1581758827",
+        "album" : "DAYDREAM - Single",
+        "isrc" : "FRU982000790",
+        "track" : "DAYDREAM",
+        "artist" : "Etienne de Crécy"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1488955852",
+        "album" : "Anjunadeep 11",
+        "isrc" : "GBEWA1904148",
+        "track" : "Dream of Love (feat. Mimi Page) [Mixed]",
+        "artist" : "Nox Vahn"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496426835",
+        "album" : "Nova (Joseph Ray Remix) - Single",
+        "isrc" : "GBKPL2084823",
+        "track" : "Nova (Joseph Ray Remix)",
+        "artist" : "Yotto"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1488820808",
+        "album" : "Dark Techno & Electro",
+        "isrc" : "GB9H91903602",
+        "track" : "Out of Orbit",
+        "artist" : "Alex Benson"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1497616422",
+        "album" : "side effects (Jono Ma Remixes) - Single",
+        "isrc" : "US38W2037301",
+        "track" : "side effects (Jono Ma Cosmo Mix)",
+        "artist" : "Shura"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1478295516",
+        "album" : "Grow",
+        "isrc" : "NLF711907932",
+        "track" : "Sea Breeze",
+        "artist" : "Kidnap"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1495126207",
+        "album" : "Nosso Ritmo",
+        "isrc" : "FRPHR1900020",
+        "track" : "Cadenza (feat. Polo and Pan)",
+        "artist" : "Yuksek"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1498776965",
+        "album" : "Dealer's Gone - DJ_Dave Remix - Single",
+        "isrc" : "QZ93L2005863",
+        "track" : "Dealer's Gone - DJ_Dave Remix",
+        "artist" : "DJ_Dave & Von"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1513203334",
+        "album" : "Chemicals: The Remixes",
+        "isrc" : "GBMJG2012369",
+        "track" : "Skin (Zoe Graham Remix)",
+        "artist" : "Man of Moon"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1474070894",
+        "album" : "Little Black Dress (feat. Ryan Konline) - Single",
+        "isrc" : "NLT2H1900061",
+        "track" : "Little Black Dress (feat. Ryan Konline)",
+        "artist" : "Jean Juan"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1501247528",
+        "album" : "Anatolia (Sezer Uysal Remix) - Single",
+        "isrc" : "FR7KL2000010",
+        "track" : "Anatolia (Sezer Uysal Remix)",
+        "artist" : "Thylacine"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1498783431",
+        "album" : "Ghostkeeper - Single",
+        "isrc" : "ATFH81900202",
+        "track" : "Ghostkeeper (Edit)",
+        "artist" : "Klangkarussell & GIVVEN"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1507274491",
+        "album" : "Complicated (Club Remix) - Single",
+        "isrc" : "DEUM72001488",
+        "track" : "Complicated (Club Remix)",
+        "artist" : "Verboten Berlin"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1510802466",
+        "album" : "They Know EP",
+        "isrc" : "GBKPL2000798",
+        "track" : "Stagger",
+        "artist" : "Biome"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1487520013",
+        "album" : "Soma - EP",
+        "isrc" : "CH3131914963",
+        "track" : "Soma",
+        "artist" : "Return Of The Jaded"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1520158298",
+        "album" : "Take from Me (Klangstof Remix) - Single",
+        "isrc" : "NL1VM2000001",
+        "track" : "Take from Me (Klangstof Remix)",
+        "artist" : "Áslaug"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1494874156",
+        "album" : "E18 - Single",
+        "isrc" : "NLD682000143",
+        "track" : "E18",
+        "artist" : "Jones Meadow"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1481248324",
+        "album" : "OTHERLiiNE",
+        "isrc" : "GBCEN1900065",
+        "track" : "One Line",
+        "artist" : "OTHERLiiNE, George FitzGerald & Lil Silva"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1486417074",
+        "album" : "Versailles (Hold) - Single",
+        "isrc" : "QMBZ91996813",
+        "track" : "Versailles (Hold) [Edit]",
+        "artist" : "Christian Löffler"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496908558",
+        "album" : "Miss Anthropocene (Deluxe Edition)",
+        "isrc" : "GBAFL1900402",
+        "track" : "So Heavy I Fell Through the Earth (Art Mix)",
+        "artist" : "Grimes"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496030912",
+        "album" : "One Eye - Single",
+        "isrc" : "NLEF81900009",
+        "track" : "One Eye",
+        "artist" : "Martyn"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496280973",
+        "album" : "Unity - Single",
+        "isrc" : "USA2P2002807",
+        "track" : "Unity",
+        "artist" : "Phaeleh"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1496799162",
+        "album" : "Alive EP",
+        "isrc" : "NLZ541901923",
+        "track" : "Charge",
+        "artist" : "SLVR"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1490261858",
+        "album" : "Edge of the Moon",
+        "isrc" : "DECY51903498",
+        "track" : "Volver",
+        "artist" : "Tessa"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1232528947",
+        "album" : "Make Time - Single",
+        "isrc" : "GB6PV1700010",
+        "track" : "Make Time",
+        "artist" : "Shanti Celeste"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1506160269",
+        "album" : "Nobody (Terrace Dub) - Single",
+        "isrc" : "GBUM72001599",
+        "track" : "Nobody (Terrace Dub)",
+        "artist" : "Gorgon City & DRAMA"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1498648137",
+        "album" : "Unfold",
+        "isrc" : "GBAYE1901409",
+        "track" : "Meet Me There (feat. Nathan Ball) [Edit]",
+        "artist" : "Icarus"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1516607223",
+        "album" : "Shipwreck \/ My World - EP",
+        "isrc" : "ATFH82000104",
+        "track" : "My World (feat. Kyle Pearce) [Edit]",
+        "artist" : "Klangkarussell"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1511596048",
+        "album" : "When Comes the Night - EP",
+        "isrc" : "GBKPL2001446",
+        "track" : "Walking Home Alone",
+        "artist" : "Hidden Face"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1521500050",
+        "album" : "Dockside - Single",
+        "isrc" : "PLE072012003",
+        "track" : "Dockside",
+        "artist" : "BETON"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1495789718",
+        "album" : "The Next Chapter (feat. GQ) - Single",
+        "isrc" : "GBEWA1904660",
+        "track" : "The Next Chapter (feat. GQ)",
+        "artist" : "Mat Zo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1488491633",
+        "album" : "JPEG",
+        "isrc" : "DEUE12002406",
+        "track" : "DISC_404",
+        "artist" : "Digitalism"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508103013",
+        "album" : "Best in Me - Single",
+        "isrc" : "QZDA82000021",
+        "track" : "Best in Me",
+        "artist" : "March 13"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1512309854",
+        "album" : "Just Hold On (Sub Focus & Wilkinson vs. Pola & Bryson Remix) - Single",
+        "isrc" : "GBUM72002179",
+        "track" : "Just Hold On (Sub Focus & Wilkinson vs. Pola & Bryson Remix)",
+        "artist" : "Sub Focus & Wilkinson"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508104669",
+        "album" : "Iris",
+        "isrc" : "DEBE72000103",
+        "track" : "Iris",
+        "artist" : "Thandi Draai"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1565333374",
+        "album" : "Elements - Single",
+        "isrc" : "GBTMZ2000998",
+        "track" : "Elements",
+        "artist" : "Insomniax & Miss Trouble"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1505527311",
+        "album" : "Ghost - Single",
+        "isrc" : "GBE281301449",
+        "track" : "Ghost",
+        "artist" : "Biome & Deep Heads"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508012797",
+        "album" : "Know Yourself - Single",
+        "isrc" : "GBTDG1301989",
+        "track" : "Know Yourself",
+        "artist" : "Jay Robinson & Idris Elba"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1504650953",
+        "album" : "Hazy (feat. Fredrik Ferrier) [Hidden Face Remix] - Single",
+        "isrc" : "GBGLW2000219",
+        "track" : "Hazy (feat. Fredrik Ferrier) [Hidden Face Remix]",
+        "artist" : "Funky Fool, Harold van Lennep & Hidden Face"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1567234283",
+        "album" : "Machina - Single",
+        "isrc" : "QZFZ32064814",
+        "track" : "Machina",
+        "artist" : "Kennedy One"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1491372924",
+        "album" : "Desire - Single",
+        "isrc" : "FRX201981943",
+        "track" : "Desire",
+        "artist" : "Matador"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1495217946",
+        "album" : "Only in Dreams (Remixes)",
+        "isrc" : "GB5KW1904912",
+        "track" : "A.I. (WHZLY ReWired)",
+        "artist" : "Delta Heavy"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1458097428",
+        "album" : "Star Allies - Single",
+        "isrc" : "GBTDG1301722",
+        "track" : "Star Allies",
+        "artist" : "Spencer Brown & Raito"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1477169158",
+        "album" : "This Is Not Our Universe",
+        "isrc" : "GBEWA1902120",
+        "track" : "Bird Feeder",
+        "artist" : "Tinlicker"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1498288389",
+        "album" : "Pure Ruin - Single",
+        "isrc" : "GBKPL1977696",
+        "track" : "Pure Ruin",
+        "artist" : "Matt Lange"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1482256826",
+        "album" : "Mr. Good",
+        "isrc" : "GBLV61902977",
+        "track" : "Lifted (feat. Claire George)",
+        "artist" : "Ardalan"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1479441251",
+        "album" : "Everything Not Saved Will Be Lost Part I (Remixes)",
+        "isrc" : "GBAHT1900841",
+        "track" : "Cafe D'Athens (Tsha Remix)",
+        "artist" : "Foals"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1511073934",
+        "album" : "Tranquil Chaos (feat. Prachi Kelkar) - Single",
+        "isrc" : "QZES62028178",
+        "track" : "Tranquil Chaos (feat. Prachi Kelkar)",
+        "artist" : "Sahamanyu"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1512320610",
+        "album" : "Neon Jungle",
+        "isrc" : "USA2P2018942",
+        "track" : "Us",
+        "artist" : "CloZee & The Kite String Tangle"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1515259949",
+        "album" : "Little Bit Lighter - Single",
+        "isrc" : "GBRF52000039",
+        "track" : "Little Bit Lighter",
+        "artist" : "Charlotte Haining, BCee & Etherwood"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1548296438",
+        "album" : "Universalis - Single",
+        "isrc" : "GB8KE1959127",
+        "track" : "Universalis",
+        "artist" : "Peshay & VSY"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503247006",
+        "album" : "Are You With Me? - EP",
+        "isrc" : "CAN112000062",
+        "track" : "When the Night Is Over",
+        "artist" : "Kudu Blue"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1509451136",
+        "album" : "Forever (Separate But Together) - Single",
+        "isrc" : "GBZN82000001",
+        "track" : "Forever (Separate But Together)",
+        "artist" : "CHVRCHES"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1503161243",
+        "album" : "Unknown Song - Single",
+        "isrc" : "GBCEL2000015",
+        "track" : "Unknown Song",
+        "artist" : "Joe Goddard & Hayden Thorpe"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1508063546",
+        "album" : "Monsters",
+        "isrc" : "GBCFB2000172",
+        "track" : "Deep Blue",
+        "artist" : "The Midnight"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1480701261",
+        "album" : "Me You - Single",
+        "isrc" : "GBCFB1900241",
+        "track" : "Me You",
+        "artist" : "TSHA"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1493469530",
+        "album" : "SAWAYAMA",
+        "isrc" : "GBK3W1901229",
+        "track" : "Bad Friend",
+        "artist" : "Rina Sawayama"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1518837888",
+        "album" : "Ooh La La (Honey Dijon Remix) - Single",
+        "isrc" : "GBUM72002805",
+        "track" : "Ooh La La (Honey Dijon Remix)",
+        "artist" : "Jessie Ware"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1436738924",
+        "album" : "What Is Love? (Deluxe)",
+        "isrc" : "GBAHS1800640",
+        "track" : "Baby (feat. Marina and the Diamonds & Luis Fonsi)",
+        "artist" : "Clean Bandit"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1536457632",
+        "album" : "IIII",
+        "isrc" : "DEA621801721",
+        "track" : "Speechless (feat. Erika Sirola)",
+        "artist" : "Robin Schulz"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "549891632",
+        "album" : "Wo es beginnt",
+        "isrc" : "DEE861200393",
+        "track" : "Lass die Musik an",
+        "artist" : "Madsen"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1483607828",
+        "album" : "E09 Epilog - Single",
+        "isrc" : "DELJ81955662",
+        "track" : "E09 Epilog",
+        "artist" : "OK KID"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1517031559",
+        "album" : "Rose Rouge - Single",
+        "isrc" : "GBUM71906390",
+        "track" : "Rose Rouge",
+        "artist" : "Jorja Smith"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1480734531",
+        "album" : "The Answer - EP",
+        "isrc" : "DEY471982834",
+        "track" : "The Answer",
+        "artist" : "David Hasert"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1497008800",
+        "album" : "Resonate",
+        "isrc" : "QM7YK1900280",
+        "track" : "Silence is Golden",
+        "artist" : "Lettuce"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1500955914",
+        "album" : "Better Mind - Single",
+        "isrc" : "CA7C62000363",
+        "track" : "Better Mind",
+        "artist" : "Ante Perry, Dayne S & IMYD"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1500865441",
+        "album" : "Voodoo Sonic (The Trilogy, Pt. 2) - EP",
+        "isrc" : "ATE612010002",
+        "track" : "Piano Boy",
+        "artist" : "Parov Stelar"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1507943181",
+        "album" : "Budududum - Single",
+        "isrc" : "QZK9T2000027",
+        "track" : "Budududum",
+        "artist" : "Emmit Fenn"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1569161680",
+        "album" : "The Grand Mirage",
+        "isrc" : "USA2P1950377",
+        "track" : "Now That We've Been in Love (feat. Pell)",
+        "artist" : "Robotaki"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1490092891",
+        "album" : "Puls",
+        "isrc" : "DESD81900266",
+        "track" : "Rushing Back",
+        "artist" : "MEUTE"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1527590829",
+        "album" : "Blank 001 - Single",
+        "isrc" : "DECY52001914",
+        "track" : "Feel the Love (Fango Remix)",
+        "artist" : "Prins Thomas"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1528033402",
+        "album" : "Falling for You (Austin Ato Remix) - Single",
+        "isrc" : "DEXO22069508",
+        "track" : "Falling for You (Austin Ato Remix)",
+        "artist" : "Charlotte OC"
+      }
+    ],
+    "serviceId" : "pl.u-vxy693YFzbDrlV",
+    "name" : "two oh two oh",
+    "service" : "applemusic"
+  }
+]
